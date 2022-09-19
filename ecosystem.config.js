@@ -14,7 +14,7 @@ module.exports = {
       ref  : 'origin/master',
       repo : 'git@github.com/Surya5602/Basicnodeapp.git',
       path : '/opt/deployment/jenkins-nodeserver/source/Basicnodeapp',
-      
+      "post-deploy" : "pm2 start index.js"
     }
   }
 };
