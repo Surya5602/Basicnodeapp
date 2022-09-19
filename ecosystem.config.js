@@ -14,6 +14,7 @@ module.exports = {
       ref  : 'origin/master',
       repo : 'git@github.com/Surya5602/Basicnodeapp',
       path : '/opt/deployment/jenkins-nodeserver/source',
+      
     }
   }
 };
