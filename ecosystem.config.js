@@ -12,7 +12,7 @@ module.exports = {
       user : 'surya',
       host : '192.168.1.88',
       ref  : 'origin/master',
-      repo : 'git@github.com/Surya5602/Basicnodeapp',
+      repo : 'git@github.com/Surya5602/Basicnodeapp.git',
       path : '/opt/deployment/jenkins-nodeserver',
       
     }
